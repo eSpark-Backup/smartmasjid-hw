@@ -1,0 +1,53 @@
+Board Information Report
+Filename     : C:\Users\XPENDER\Documents\GitHub\smartmasjid-hardware\Design Files\IoT-Button\IOT_Buttons.PcbDoc
+Date         : 2/19/2023
+Time         : 9:57:58 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 2799.906milsx2755.906mils
+    Components on board, 76
+count : 2
+
+Routing Information
+    Routing completion, 55.43%
+    Connections, 184
+    Connections routed, 102
+    Connections remaining, 82
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 254, 0, 104, 0, 21, 0, 0
+    Bottom Layer, 0, 0, 0, 50, 0, 0, 0, 0
+    Dimension, 1, 0, 0, 36, 4, 0, 0, 68
+    Board Outline, 0, 0, 0, 5, 0, 0, 0, 0
+    Multi-Layer, 0, 16, 34, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 4, 0, 0, 477, 191, 18, 1, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 1, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 14
+
+Drill Pairs, Vias
+count : 0
+
+Non-Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    31.496mils, 0, 0
+    62.992mils, 0, 0
+    70.866mils, 0, 0
+count : 4
+
+Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    11.811mils, 0, 0
+    31.496mils, 0, 0
+    35.433mils, 0, 0
+    47.244mils, 0, 0
+    78.74mils, 0, 0
+count : 6
