@@ -64,23 +64,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JJHSWRUE
 
 [Document2]
-DocumentPath=IOT_Buttons.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UNPYJVYD
-
-[Document3]
 DocumentPath=Power-Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -97,7 +80,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VNGWNNDJ
 
-[Document4]
+[Document3]
 DocumentPath=Battery-Management.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -114,7 +97,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KAHNTZKP
 
-[Document5]
+[Document4]
 DocumentPath=Regulator-Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XYCAXSJN
 
-[Document6]
+[Document5]
 DocumentPath=Controller-Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -147,6 +130,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UIQCBSSY
+
+[Document6]
+DocumentPath=IOT_ButtonPCB-v1.1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
