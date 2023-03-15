@@ -1,28 +1,28 @@
 Board Information Report
-Filename     : C:\Users\XPENDER\Documents\GitHub\smartmasjid-hardware\Design Files\IoT-Speaker\IOT_Speaker.PcbDoc
+Filename     : E:\smartmasjid-hardware\Design Files\IoT-Speaker\IOT_Speaker.PcbDoc
 Date         : 3/15/2023
-Time         : 12:55:32 AM
-Time Elapsed : 00:00:01
+Time         : 7:26:33 PM
+Time Elapsed : 00:00:00
 
 General
-    Board Size, 3531.606milsx2682.606mils
+    Board Size, 89.7028mmx68.1382mm
     Components on board, 213
 count : 2
 
 Routing Information
-    Routing completion, 50.54%
+    Routing completion, 96.30%
     Connections, 459
-    Connections routed, 232
-    Connections remaining, 227
+    Connections routed, 442
+    Connections remaining, 17
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 587, 0, 294, 0, 57, 2, 0
-    Bottom Layer, 0, 0, 0, 48, 0, 1, 0, 0
+    Top Layer, 0, 587, 0, 745, 0, 147, 2, 0
+    Bottom Layer, 0, 0, 0, 308, 0, 7, 0, 0
     Dimension, 0, 0, 0, 16, 2, 0, 0, 188
     Board Outline, 0, 0, 0, 4, 0, 0, 0, 0
     Fabrication, 0, 0, 0, 0, 0, 0, 0, 0
-    Multi-Layer, 0, 38, 50, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 38, 175, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Top Overlay, 12, 0, 0, 1242, 523, 41, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
@@ -36,8 +36,3 @@ count : 15
 
 Drill Pairs, Vias
 count : 0
-
-Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 2.524, 1628.139, 27%
-    Bottom Layer, 0.453, 292.46, 5%
-count : 2
