@@ -233,10 +233,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWHVOTNW
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for IoT-Speaker\Design Rule Check - IOT_Speaker.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
