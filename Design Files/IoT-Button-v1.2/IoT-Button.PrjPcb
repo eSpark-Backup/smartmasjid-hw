@@ -98,23 +98,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KAHNTZKP
 
 [Document4]
-DocumentPath=Regulator-Section.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XYCAXSJN
-
-[Document5]
 DocumentPath=Controller-Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,8 +114,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UIQCBSSY
 
-[Document6]
-DocumentPath=IOT_ButtonPCB-v1.1.PcbDoc
+[Document5]
+DocumentPath=IoT-Button-PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -147,10 +130,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNPYJVYD
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for IoT-Button-v1.1\Design Rule Check - IOT_ButtonPCB-v1.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
