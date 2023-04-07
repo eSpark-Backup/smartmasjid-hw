@@ -149,40 +149,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EWHVOTNW
 
 [Document7]
-DocumentPath=..\..\Deliverables\Gerber Files\Gerber_files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=..\..\Deliverables\Gerber Files\NC_Drill_Files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
 DocumentPath=IoT-Speaker.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document8]
 DocumentPath=Audio-Amplifier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -216,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXFPIBXF
 
-[Document11]
+[Document9]
 DocumentPath=Audio-Amplifier.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
