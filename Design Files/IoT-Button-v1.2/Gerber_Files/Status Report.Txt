@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [IoT-Button.PrjPcb]
+   Generated File[IoT-Button-PCB.GTO]
+   Generated File[IoT-Button-PCB.GTP]
+   Generated File[IoT-Button-PCB.GTS]
+   Generated File[IoT-Button-PCB.GTL]
+   Generated File[IoT-Button-PCB.GBL]
+   Generated File[IoT-Button-PCB.GBS]
+   Generated File[IoT-Button-PCB.GBP]
+   Generated File[IoT-Button-PCB.GBO]
+   Generated File[IoT-Button-PCB.GM2]
+   Generated File[IoT-Button-PCB.GPT]
+   Generated File[IoT-Button-PCB.GPB]
+   Generated File[IoT-Button-PCB.GD1]
+   Generated File[IoT-Button-PCB.GG1]
+   Generated File[IoT-Button-PCB.RUL]
+   Generated File[IoT-Button-PCB.EXTREP]
+   Generated File[IoT-Button-PCB.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 6:36:56 PM On 4/11/2023
