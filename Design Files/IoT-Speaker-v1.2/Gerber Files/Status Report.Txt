@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [IoT-Speaker.PrjPcb]
+   Generated File[IOT_Speaker.GTO]
+   Generated File[IOT_Speaker.GTP]
+   Generated File[IOT_Speaker.GTS]
+   Generated File[IOT_Speaker.GTL]
+   Generated File[IOT_Speaker.GBL]
+   Generated File[IOT_Speaker.GBS]
+   Generated File[IOT_Speaker.GBP]
+   Generated File[IOT_Speaker.GBO]
+   Generated File[IOT_Speaker.GM2]
+   Generated File[IOT_Speaker.GPT]
+   Generated File[IOT_Speaker.GPB]
+   Generated File[IOT_Speaker.GD1]
+   Generated File[IOT_Speaker.GG1]
+   Generated File[IOT_Speaker.RUL]
+   Generated File[IOT_Speaker.EXTREP]
+   Generated File[IOT_Speaker.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 11:39:45 PM On 4/26/2023
