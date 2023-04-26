@@ -146,7 +146,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EWHVOTNW
+DocumentUniqueId=YHEIOHRB
 
 [Document7]
 DocumentPath=IoT-Speaker.OutJob
@@ -198,6 +198,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for IoT-Speaker\Design Rule Check - IOT_Speaker.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
