@@ -1,25 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [IoT-Speaker.PrjPcb]
-   Generated File[IOT_Speaker.GTO]
-   Generated File[IOT_Speaker.GTP]
-   Generated File[IOT_Speaker.GTS]
-   Generated File[IOT_Speaker.GTL]
-   Generated File[IOT_Speaker.GBL]
-   Generated File[IOT_Speaker.GBS]
-   Generated File[IOT_Speaker.GBP]
-   Generated File[IOT_Speaker.GBO]
-   Generated File[IOT_Speaker.GM2]
-   Generated File[IOT_Speaker.GPT]
-   Generated File[IOT_Speaker.GPB]
-   Generated File[IOT_Speaker.GD1]
-   Generated File[IOT_Speaker.GG1]
-   Generated File[IOT_Speaker.RUL]
-   Generated File[IOT_Speaker.EXTREP]
-   Generated File[IOT_Speaker.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IoT-Speaker.PrjPcb]
+   Generated File[IOT_Speaker-RoundHoles.TXT]
+   Generated File[IOT_Speaker-SlotHoles.TXT]
+   Generated File[IOT_Speaker.LDP]
+   Generated File[IOT_Speaker.DRR]
 
 
-Files Generated   : 16
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 11:39:45 PM On 4/26/2023
+Finished Output Generation At 11:11:05 AM On 4/28/2023
