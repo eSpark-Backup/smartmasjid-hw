@@ -2,8 +2,39 @@
 FileName = IOT_Speaker.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Pad Master
-      File : IOT_Speaker.GPB
+Generating : Board Outline
+      File : IOT_Speaker.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
+    D290
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : IOT_Speaker.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D15
+    D287
+    D288
+    D289
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : IOT_Speaker.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -11,33 +42,66 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D22
-    D23
-    D25
+    D31
     D32
-    D36
-    D55
-    D105
-    D212
-    D213
-    D214
-    D215
-    D216
-    D217
-    D218
-    D219
-    D220
-    D221
-    D222
-    D223
-    D224
-    D225
-    D226
+    D34
+    D39
+    D43
+    D61
+    D231
+    D232
+    D233
+    D234
+    D235
+    D236
+    D237
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : IOT_Speaker.GPT
+Generating : Bottom Solder
+      File : IOT_Speaker.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D78
+    D80
+    D85
+    D86
+    D87
+    D91
+    D92
+    D110
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D280
+    D281
+    D282
+    D283
+    D284
+    D285
+    D286
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : IOT_Speaker.GTS
+
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -45,7 +109,80 @@ Generating : Top Pad Master
 
 
 Used DCodes :
-    D22
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : IOT_Speaker.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D23
     D24
     D25
@@ -85,15 +222,12 @@ Used DCodes :
     D59
     D60
     D61
-    D105
-    D212
-    D213
-    D214
-    D215
-    D216
-    D217
-    D218
-    D219
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
 *************************************************************
 
 *************************************************************
@@ -116,13 +250,12 @@ Used DCodes :
     D19
     D20
     D21
+    D22
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : IOT_Speaker.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Pad Master
+      File : IOT_Speaker.GPT
 
     Adding Layer      : Top Layer
 
@@ -130,7 +263,6 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D22
     D23
     D24
     D25
@@ -170,13 +302,26 @@ Used DCodes :
     D59
     D60
     D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D121
+    D223
+    D224
+    D225
+    D226
+    D227
+    D228
+    D229
+    D230
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : IOT_Speaker.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Pad Master
+      File : IOT_Speaker.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -184,47 +329,28 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D22
-    D23
-    D25
+    D31
     D32
-    D36
-    D55
-    D220
-    D221
-    D222
+    D34
+    D39
+    D43
+    D61
+    D121
     D223
     D224
     D225
     D226
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : IOT_Speaker.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D13
-    D124
-    D275
-    D276
-    D277
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : IOT_Speaker.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D11
+    D227
+    D228
+    D229
+    D230
+    D231
+    D232
+    D233
+    D234
+    D235
+    D236
+    D237
 *************************************************************
 
 *************************************************************
@@ -237,34 +363,23 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D11
-    D22
-    D23
-    D25
+    D10
+    D31
     D32
-    D36
-    D55
-    D105
-    D116
-    D117
-    D119
-    D120
+    D34
+    D39
+    D43
+    D61
     D121
-    D122
-    D123
-    D125
-    D127
-    D212
-    D213
-    D214
-    D215
-    D216
-    D217
-    D218
-    D219
-    D220
-    D221
-    D222
+    D128
+    D129
+    D130
+    D131
+    D132
+    D134
+    D135
+    D136
+    D137
     D223
     D224
     D225
@@ -310,6 +425,18 @@ Used DCodes :
     D265
     D266
     D267
+    D268
+    D269
+    D270
+    D271
+    D272
+    D273
+    D274
+    D275
+    D276
+    D277
+    D278
+    D279
 *************************************************************
 
 *************************************************************
@@ -322,8 +449,8 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D11
-    D22
+    D10
+    D15
     D23
     D24
     D25
@@ -363,19 +490,13 @@ Used DCodes :
     D59
     D60
     D61
-    D105
-    D116
-    D117
-    D118
-    D119
-    D120
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
     D121
-    D122
-    D123
-    D124
-    D125
-    D126
-    D127
     D128
     D129
     D130
@@ -468,114 +589,17 @@ Used DCodes :
     D217
     D218
     D219
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : IOT_Speaker.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : IOT_Speaker.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D63
-    D65
-    D72
-    D73
-    D74
-    D78
-    D79
-    D98
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D268
-    D269
-    D270
-    D271
-    D272
-    D273
-    D274
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
+    D226
+    D227
+    D228
+    D229
+    D230
 *************************************************************
 
 *************************************************************
@@ -588,11 +612,11 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D11
-    D116
-    D278
-    D279
-    D280
+    D10
+    D129
+    D291
+    D292
+    D293
 *************************************************************
 
 *************************************************************
@@ -605,6 +629,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D278
+    D291
 *************************************************************
 
