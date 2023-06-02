@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IoT-Speaker.PrjPcb]
+   Generated File[IOT_Speaker-RoundHoles.TXT]
+   Generated File[IOT_Speaker-SlotHoles.TXT]
+   Generated File[IOT_Speaker.LDP]
+   Generated File[IOT_Speaker.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:01:36 PM On 6/2/2023
