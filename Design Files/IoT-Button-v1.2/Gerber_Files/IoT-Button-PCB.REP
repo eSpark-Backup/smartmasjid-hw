@@ -20,7 +20,6 @@ Used DCodes :
     D17
     D18
     D19
-    D32
     D33
     D34
     D35
@@ -63,10 +62,10 @@ Generating : Bottom Layer
 
 Used DCodes :
     D18
-    D32
     D33
     D34
-    D43
+    D35
+    D47
     D58
     D59
     D60
@@ -170,7 +169,7 @@ Generating : Bottom Overlay
 Used DCodes :
     D10
     D11
-    D32
+    D33
     D164
     D165
     D166
@@ -285,6 +284,7 @@ Used DCodes :
     D29
     D30
     D31
+    D32
 *************************************************************
 
 *************************************************************
@@ -304,6 +304,7 @@ Used DCodes :
     D29
     D30
     D31
+    D32
     D138
     D139
     D140
@@ -403,7 +404,7 @@ Generating : Drill Drawing
 
 Used DCodes :
     D11
-    D33
+    D35
     D178
     D179
 *************************************************************
