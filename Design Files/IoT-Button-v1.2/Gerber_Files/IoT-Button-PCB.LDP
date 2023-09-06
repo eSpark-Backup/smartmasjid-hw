@@ -1,2 +1,3 @@
-Layer Pairs Export File for PCB: C:\Users\eSpark\Documents\GitHub\smartmasjid-hardware\Design Files\IoT-Button-v1.2\IoT-Button-PCB.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=iot-button-pcb.txt|DrillLayers=gtl,gbl
+Layer Pairs Export File for PCB: S:\smartmasjid-hardware\Design Files\IoT-Button-v1.2\IoT-Button-PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=iot-button-pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=iot-button-pcb-slotholes.txt|DrillLayers=gtl,gbl
