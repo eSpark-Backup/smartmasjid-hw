@@ -1,11 +1,13 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [IoT-Speaker.PrjPcb]
-   Generated File[Pick Place for IOT_Speaker.txt]
-   Generated File[Pick Place for IOT_Speaker.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IoT-Speaker-v1.3.PrjPcb]
+   Generated File[IOT_Speaker-PCB-v1.3-RoundHoles.TXT]
+   Generated File[IOT_Speaker-PCB-v1.3-SlotHoles.TXT]
+   Generated File[IOT_Speaker-PCB-v1.3.LDP]
+   Generated File[IOT_Speaker-PCB-v1.3.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 6:10:26 AM On 9/6/2023
+Finished Output Generation At 2:08:51 PM On 1/20/2024
