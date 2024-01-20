@@ -1,11 +1,13 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [IoT-Button.PrjPcb]
-   Generated File[Pick Place for IoT-Button-PCB.txt]
-   Generated File[Pick Place for IoT-Button-PCB.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IoT-Button-v1.3.PrjPcb]
+   Generated File[IoT-Button-PCB-v1.3-RoundHoles.TXT]
+   Generated File[IoT-Button-PCB-v1.3-SlotHoles.TXT]
+   Generated File[IoT-Button-PCB-v1.3.LDP]
+   Generated File[IoT-Button-PCB-v1.3.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 4:58:33 AM On 9/6/2023
+Finished Output Generation At 12:15:24 PM On 1/20/2024

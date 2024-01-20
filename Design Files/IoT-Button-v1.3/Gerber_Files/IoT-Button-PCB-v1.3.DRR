@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: IoT-Button-PCB-v1.3.PcbDoc   1/20/2024  12:15:24 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : IoT-Button-PCB-v1.3-RoundHoles.TXT
+ASCII SlotHoles File : IoT-Button-PCB-v1.3-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             72        PTH        17.55inch (445.82mm)
+T2      39mil (1mm)                                               Slot              3         PTH        0.72inch (18.20mm)
+T3      43mil (1.1mm)                                             Round             2         PTH        0.18inch (4.50mm)
+T4      51mil (1.3mm)                                             Round             2         PTH        0.28inch (7.01mm)
+T5      79mil (2mm)                                               Round             4         PTH        9.22inch (234.18mm)
+T6      83mil (2.1mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              84
+
+Total Processing Time (hh:mm:ss) : 00:00:00
