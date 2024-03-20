@@ -4,9 +4,9 @@ C:\Users\XPENDER\Documents\GitHub\smartmasjid-hardware\Design Files\IoT-Speaker-
 ========================================================================================================================
 File Design Information:
 
-Date:       20/01/24
-Time:       14:06
-Revision:   Not in VersionControl
+Date:       20/03/24
+Time:       17:11
+Revision:   2694a40e9669a3ca2ea647894e4ac27ff8d36427
 Variant:    No variations
 Units used: mm
 
@@ -84,7 +84,7 @@ Units used: mm
 "R11","35,4807mm","-12,7672mm","TopLayer","90","35,4807mm","-12,7672mm","35,4807mm","-13,5292mm"
 "R12","36,2681mm","-14,7230mm","TopLayer","0","36,2681mm","-14,7230mm","35,5061mm","-14,7230mm"
 "R18","9,3091mm","-30,9257mm","TopLayer","180","9,3091mm","-30,9257mm","10,0711mm","-30,9257mm"
-"R19","21,8589mm","-29,8411mm","TopLayer","0","21,8589mm","-29,8411mm","21,0969mm","-29,8411mm"
+"R19","11,9503mm","-29,8245mm","TopLayer","180","11,9503mm","-29,8245mm","12,7123mm","-29,8245mm"
 "R20","25,3238mm","-24,6160mm","TopLayer","270","25,3238mm","-24,6160mm","25,3238mm","-23,8540mm"
 "R21","19,8445mm","-8,2816mm","TopLayer","90","19,8445mm","-8,2816mm","19,8445mm","-9,0436mm"
 "R22","8,3891mm","-8,1546mm","TopLayer","90","8,3891mm","-8,1546mm","8,3891mm","-8,9166mm"
