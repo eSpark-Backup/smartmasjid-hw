@@ -4,9 +4,9 @@ C:\Users\XPENDER\Documents\GitHub\smartmasjid-hardware\Design Files\IoT-Speaker-
 ========================================================================================================================
 File Design Information:
 
-Date:       20/03/24
-Time:       17:11
-Revision:   2694a40e9669a3ca2ea647894e4ac27ff8d36427
+Date:       21/03/24
+Time:       16:31
+Revision:   77f22f8aef3489bcc7222985b6736af613c5ec4a
 Variant:    No variations
 Units used: mm
 
@@ -84,7 +84,7 @@ R10        21,4884mm    -2,2098mm    TopLayer    270      21,4884mm -2,2098mm  2
 R11        35,4807mm    -12,7672mm   TopLayer    90       35,4807mm -12,7672mm 35,4807mm -13,5292mm 
 R12        36,2681mm    -14,7230mm   TopLayer    0        36,2681mm -14,7230mm 35,5061mm -14,7230mm 
 R18        9,3091mm     -30,9257mm   TopLayer    180      9,3091mm  -30,9257mm 10,0711mm -30,9257mm 
-R19        11,9503mm    -29,8245mm   TopLayer    180      11,9503mm -29,8245mm 12,7123mm -29,8245mm 
+R19        21,8511mm    -30,0048mm   TopLayer    0        21,8511mm -30,0048mm 21,0891mm -30,0048mm 
 R20        25,3238mm    -24,6160mm   TopLayer    270      25,3238mm -24,6160mm 25,3238mm -23,8540mm 
 R21        19,8445mm    -8,2816mm    TopLayer    90       19,8445mm -8,2816mm  19,8445mm -9,0436mm  
 R22        8,3891mm     -8,1546mm    TopLayer    90       8,3891mm  -8,1546mm  8,3891mm  -8,9166mm  
@@ -107,7 +107,7 @@ R38        31,4072mm    -8,7889mm    TopLayer    90       31,4072mm -8,7889mm  3
 R39        35,4299mm    -8,8048mm    TopLayer    90       35,4299mm -8,8048mm  35,4299mm -9,5668mm  
 R54        16,2224mm    -35,6256mm   BottomLayer 180      16,2224mm -35,6256mm 16,9844mm -35,6256mm 
 R55        21,6867mm    -33,9880mm   BottomLayer 90       21,6867mm -33,9880mm 21,6867mm -34,7500mm 
-R56        20,9957mm    -29,6975mm   BottomLayer 0        20,9957mm -29,6975mm 20,2337mm -29,6975mm 
+R56        22,5298mm    -29,8450mm   BottomLayer 180      22,5298mm -29,8450mm 23,2918mm -29,8450mm 
 R65        36,3951mm    -10,8114mm   TopLayer    180      36,3951mm -10,8114mm 37,1571mm -10,8114mm 
 R66        34,1091mm    -7,2300mm    TopLayer    90       34,1091mm -7,2300mm  34,1091mm -7,9920mm  
 R67        31,3818mm    -6,0813mm    TopLayer    90       31,3818mm -6,0813mm  31,3818mm -6,8433mm  
