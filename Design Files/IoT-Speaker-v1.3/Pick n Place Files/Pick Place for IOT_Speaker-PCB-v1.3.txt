@@ -4,9 +4,9 @@ D:\Github\smartmasjid-hardware\Design Files\IoT-Speaker-v1.3\Project Outputs for
 ========================================================================================================================
 File Design Information:
 
-Date:       09/04/24
-Time:       10:59
-Revision:   c05d5f3aa8451f9d70188a54d5a06e4b70ed9436
+Date:       17/04/24
+Time:       19:55
+Revision:   49f087772421280c015d16544a69a217604b70d4
 Variant:    No variations
 Units used: mm
 
@@ -110,11 +110,11 @@ R66        34,1091mm    -7,2300mm    TopLayer    90       34,1091mm -7,2300mm  3
 R67        31,3818mm    -6,0813mm    TopLayer    90       31,3818mm -6,0813mm  31,3818mm -6,8433mm  
 R69        34,1122mm    -47,9552mm   TopLayer    180      34,1122mm -47,9552mm 34,8742mm -47,9552mm 
 SW1        14,7391mm    -47,7532mm   TopLayer    335      14,7391mm -47,7532mm 11,1596mm -47,7392mm 
-SW4        47,0340mm    6,3811mm     TopLayer    232,9    46,6152mm 6,0644mm   47,6967mm 3,9300mm   
-SW5        20,3305mm    11,5986mm    TopLayer    283      20,5667mm 11,4805mm  22,8978mm 10,9410mm  
-SW6        35,8343mm    11,4223mm    TopLayer    256      35,5802mm 11,2953mm  37,4124mm 9,7564mm   
+SW4        46,5705mm    5,1935mm     TopLayer    232,9    46,1518mm 4,8768mm   47,2332mm 2,7424mm   
+SW5        20,7442mm    10,5067mm    TopLayer    283      20,9804mm 10,3886mm  23,3115mm 9,8492mm   
+SW6        34,4575mm    10,5740mm    TopLayer    258      34,2392mm 10,4648mm  36,1239mm 8,9907mm   
 SW7        57,6143mm    -27,7888mm   TopLayer    73       57,6143mm -27,7888mm 55,2296mm -30,4582mm 
-SW8        7,8311mm     5,9203mm     TopLayer    308      8,2448mm  5,5971mm   10,5855mm 6,0934mm   
+SW8        8,6795mm     4,9460mm     TopLayer    308      9,0932mm  4,6228mm   11,4339mm 5,1191mm   
 U1         38,1325mm    -33,4276mm   TopLayer    0        38,1325mm -33,4276mm 35,2240mm -31,5226mm 
 U2         35,0845mm    -26,8966mm   TopLayer    0        35,0845mm -26,8966mm 34,3445mm -26,1466mm 
 U3         19,0445mm    -39,6720mm   TopLayer    0        19,0445mm -39,6720mm 18,2445mm -39,1220mm 
