@@ -22,7 +22,6 @@ D33   RECTANGULAR        66.929     224.409       0.000 FLASH     180.000
 D34   RECTANGULAR        35.433      35.433       0.000 FLASH      90.000
 D35   RECTANGULAR        59.055      35.433       0.000 FLASH     180.000
 D36   RECTANGULAR        26.378      11.811       0.000 FLASH       0.000
-D39   OCTAGONAL          60.000      60.000       0.000 FLASH     270.000
 D41   RECTANGULAR        40.000      60.000       0.000 FLASH       0.000
 D42   RECTANGULAR        40.000      60.000       0.000 FLASH     270.000
 D44   RECTANGULAR        43.307      23.622       0.000 FLASH     180.000
@@ -57,7 +56,6 @@ D80   RECTANGULAR        67.055      43.433       0.000 FLASH     180.000
 D81   RECTANGULAR        34.378      19.811       0.000 FLASH       0.000
 D83   RECTANGULAR        39.724      34.724       0.000 FLASH     270.000
 D84   RECTANGULAR        29.724      22.724       0.000 FLASH      90.000
-D86   OCTAGONAL          68.000      68.000       0.000 FLASH     270.000
 D88   RECTANGULAR        45.512      65.512       0.000 FLASH       0.000
 D89   RECTANGULAR        45.512      65.512       0.000 FLASH     270.000
 D91   RECTANGULAR        51.307      31.622       0.000 FLASH     180.000
@@ -238,6 +236,8 @@ D282  RECTANGULAR        19.811      55.244       0.000 FLASH     180.000
 D283  ROUNDED             1.000       1.000       0.000  LINE       0.000
 D284  RECTANGULAR        27.000      34.000       0.000 FLASH       0.000
 D285  RECTANGULAR        44.085      16.000       0.000 FLASH       0.000
-D286  RECTANGULAR       240.000     712.000       0.000 FLASH       0.000
-D287  ROUNDED             2.000       2.000       0.000  LINE       0.000
-D288  ROUNDED            14.000      14.000       0.000  LINE       0.000
+D286  ROUNDED             0.500       0.500       0.000  LINE       0.000
+D287  RECTANGULAR       240.000     712.000       0.000 FLASH       0.000
+D288  ROUNDED             2.000       2.000       0.000  LINE       0.000
+D289  ROUNDED            14.000      14.000       0.000  LINE       0.000
+D290  ROUNDED             1.000       1.000       0.000  LINE       0.000
