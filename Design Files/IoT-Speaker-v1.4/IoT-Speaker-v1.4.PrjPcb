@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for IoT-Speaker-v1.4
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -182,168 +182,88 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
-DocumentPath=IoT-Speaker-v1.3.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
-DocumentPath=IoT-Speaker-v1.4.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
-DocumentPath=Gerber Files\Gerber Files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
-DocumentPath=Gerber Files\NC Drill File.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
-DocumentPath=Project Outputs for IoT-Speaker-v1.4\Design Rule Check - IOT_Speaker-PCB-v1.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.REP
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for IoT-Speaker-v1.4\IOT_Speaker-PCB-v1.4.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for IoT-Speaker-v1.4\Pick Place for IOT_Speaker-PCB-v1.4.csv
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for IoT-Speaker-v1.4\Pick Place for IOT_Speaker-PCB-v1.4.txt
 DItemRevisionGUID=
 
 [Configuration1]
@@ -395,7 +315,7 @@ Wir_PrintColor=0
 Ldr_PrintColor=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for IoT-Speaker-v1.4
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
