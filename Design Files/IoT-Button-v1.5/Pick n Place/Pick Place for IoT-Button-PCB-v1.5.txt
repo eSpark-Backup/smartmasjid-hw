@@ -4,14 +4,15 @@ S:\smartmasjid-hardware\Design Files\IoT-Button-v1.5\Project Outputs for IoT-But
 ========================================================================================================================
 File Design Information:
 
-Date:       19/11/24
-Time:       11:50
-Revision:   ee170d99a3e19e940985fbd1c3dcf44ca2de2ca2
+Date:       22/11/24
+Time:       12:48
+Revision:   6b5331f1f710a53d2593871eddae846249f42050
 Variant:    No variations
 Units used: mm
 
 Designator Center-X(mm) Center-Y(mm) Layer       Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
-C1         77.4562mm    51.4413mm    TopLayer    270      77.4562mm 51.4413mm 77.4562mm 52.2033mm 
+C1         76.8604mm    51.3461mm    TopLayer    180      76.8604mm 51.3461mm 77.6224mm 51.3461mm 
+C2         78.7400mm    50.9016mm    TopLayer    270      78.7400mm 50.9016mm 78.7400mm 51.3715mm 
 C3         19.2786mm    2.2790mm     TopLayer    270      19.2786mm 2.2790mm  19.2786mm 3.0410mm  
 C5         18.1864mm    2.1266mm     TopLayer    270      18.1864mm 2.1266mm  18.1864mm 2.5965mm  
 C7         22.5044mm    9.7028mm     TopLayer    90       22.5044mm 9.7028mm  22.5044mm 8.9408mm  
@@ -24,14 +25,14 @@ C14        29.1295mm    20.6248mm    TopLayer    180      29.1295mm 20.6248mm 29
 C15        50.9261mm    29.5656mm    TopLayer    0        50.9261mm 29.5656mm 50.4562mm 29.5656mm 
 C16        38.4556mm    13.3345mm    TopLayer    240      38.4556mm 13.3345mm 38.6906mm 13.7415mm 
 C17        41.8374mm    36.9363mm    TopLayer    60       41.8374mm 36.9363mm 41.6024mm 36.5293mm 
-C18        76.1746mm    51.1302mm    TopLayer    270      76.1746mm 51.1302mm 76.1746mm 51.6001mm 
+C18        76.5683mm    50.2031mm    TopLayer    180      76.5683mm 50.2031mm 77.0382mm 50.2031mm 
 C22        35.0250mm    25.2540mm    TopLayer    90       35.0250mm 25.2540mm 35.0250mm 24.7841mm 
 C23        33.0195mm    -7.7043mm    TopLayer    90       33.0195mm -7.7043mm 33.0195mm -8.1742mm 
 D1         19.9168mm    0.3994mm     TopLayer    180      19.9168mm 0.3994mm  20.1168mm 0.3994mm  
 F1         21.6994mm    1.7964mm     TopLayer    0        21.6994mm 1.7964mm  20.5994mm 1.7964mm  
 FB1        23.7602mm    3.3528mm     TopLayer    180      23.7602mm 3.3528mm  24.4602mm 3.3528mm  
 J1         21.4808mm    -5.1812mm    BottomLayer 90       21.4808mm -4.3312mm 21.4808mm -8.3312mm 
-J3         80.8677mm    16.5394mm    TopLayer    270      80.8677mm 16.5394mm 79.6052mm 19.0394mm 
+J3         79.5977mm    16.5394mm    TopLayer    270      79.5977mm 16.5394mm 78.3352mm 19.0394mm 
 LED4       35.0780mm    33.7048mm    TopLayer    30       35.0780mm 33.7048mm 32.0879mm 33.8838mm 
 LED5       30.0000mm    25.0000mm    TopLayer    90       30.0000mm 25.0000mm 28.3500mm 22.5000mm 
 LED6       35.0410mm    16.3162mm    TopLayer    150      35.0410mm 16.3162mm 36.3810mm 13.6373mm 
@@ -39,6 +40,7 @@ LED7       45.0327mm    16.3587mm    TopLayer    210      45.0327mm 16.3587mm 48
 LED8       50.0000mm    25.0000mm    TopLayer    270      50.0000mm 25.0000mm 51.6500mm 27.5000mm 
 LED9       45.2270mm    33.8823mm    TopLayer    330      45.2270mm 33.8823mm 43.8869mm 36.5613mm 
 Q1         67.9736mm    53.0573mm    TopLayer    0        67.9736mm 53.0573mm 67.0236mm 52.0573mm 
+R1         74.8284mm    50.9651mm    TopLayer    270      74.8284mm 50.9651mm 74.8284mm 51.7271mm 
 R6         20.9804mm    11.8618mm    TopLayer    0        20.9804mm 11.8618mm 20.2184mm 11.8618mm 
 R9         65.4423mm    50.7429mm    TopLayer    180      65.4423mm 50.7429mm 66.2043mm 50.7429mm 
 R10        32.2067mm    -6.2230mm    TopLayer    0        32.2067mm -6.2230mm 31.4447mm -6.2230mm 

@@ -2,27 +2,78 @@
 FileName = IoT-Button-PCB-v1.5.GBR
 AutoAperture = True
 *************************************************************
-Generating : Fabrication
-      File : IoT-Button-PCB-v1.5.GM3
+Generating : Bottom Pad Master
+      File : IoT-Button-PCB-v1.5.GPB
 
-    Adding Layer      : Fabrication
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D12
-    D66
+    D115
+    D116
     D117
+    D118
+    D119
+    D120
 *************************************************************
 
 *************************************************************
-Generating : Board Outline
-      File : IoT-Button-PCB-v1.5.GM2
+Generating : Top Pad Master
+      File : IoT-Button-PCB-v1.5.GPT
 
-    Adding Layer      : Board Outline
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : IoT-Button-PCB-v1.5.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
     D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
 *************************************************************
 
 *************************************************************
@@ -35,41 +86,7 @@ Generating : Bottom Overlay
 Used DCodes :
     D10
     D12
-    D117
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : IoT-Button-PCB-v1.5.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : IoT-Button-PCB-v1.5.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
+    D121
 *************************************************************
 
 *************************************************************
@@ -110,102 +127,15 @@ Used DCodes :
     D62
     D63
     D64
+    D65
+    D66
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : IoT-Button-PCB-v1.5.GTP
+Generating : Bottom Paste
+      File : IoT-Button-PCB-v1.5.GBP
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : IoT-Button-PCB-v1.5.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : IoT-Button-PCB-v1.5.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : IoT-Button-PCB-v1.5.GPB
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -213,12 +143,30 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : IoT-Button-PCB-v1.5.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Fabrication
+      File : IoT-Button-PCB-v1.5.GM3
+
+    Adding Layer      : Fabrication
+
+
+Used DCodes :
+    D12
+    D69
+    D121
 *************************************************************
 
 *************************************************************
@@ -231,12 +179,12 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D111
-    D112
-    D113
-    D114
     D115
     D116
+    D117
+    D118
+    D119
+    D120
 *************************************************************
 
 *************************************************************
@@ -249,6 +197,7 @@ Generating : Top Layer
 
 
 Used DCodes :
+    D12
     D19
     D20
     D21
@@ -269,8 +218,6 @@ Used DCodes :
     D36
     D37
     D38
-    D65
-    D66
     D67
     D68
     D69
@@ -321,6 +268,64 @@ Used DCodes :
     D114
     D115
     D116
+    D117
+    D118
+    D119
+    D120
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : IoT-Button-PCB-v1.5.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : IoT-Button-PCB-v1.5.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
 *************************************************************
 
 *************************************************************
@@ -334,10 +339,10 @@ Generating : Drill Drawing
 
 Used DCodes :
     D12
-    D66
-    D118
-    D119
-    D120
+    D69
+    D122
+    D123
+    D124
 *************************************************************
 
 *************************************************************
@@ -350,7 +355,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D118
+    D122
 *************************************************************
 
 *************************************************************
@@ -359,6 +364,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D121
+    D125
 *************************************************************
 
