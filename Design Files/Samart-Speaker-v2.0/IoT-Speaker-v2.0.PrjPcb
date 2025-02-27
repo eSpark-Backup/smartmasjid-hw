@@ -67,24 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HTVTUAKY
 
 [Document2]
-DocumentPath=Power-Sheet-1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UYUOAFDS
-
-[Document3]
-DocumentPath=Power-Sheet-2.SchDoc
+DocumentPath=Power_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,8 +83,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BZCXKYXE
 
-[Document4]
-DocumentPath=Controller-Sheet.SchDoc
+[Document3]
+DocumentPath=Controller_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -117,8 +100,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NHCVHGSD
 
-[Document5]
-DocumentPath=Controller-Sheet.Harness
+[Document4]
+DocumentPath=Controller_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -128,14 +111,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
-DocumentPath=Audio-Amplifier.SchDoc
+[Document5]
+DocumentPath=Audio_Amplifier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -151,8 +134,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXFPIBXF
 
-[Document7]
-DocumentPath=Audio-Amplifier.Harness
+[Document6]
+DocumentPath=Audio_Amplifier.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
