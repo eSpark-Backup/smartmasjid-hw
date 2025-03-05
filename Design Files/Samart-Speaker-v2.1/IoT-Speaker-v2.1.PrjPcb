@@ -166,6 +166,23 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+DocumentUniqueId=YHEIOHRB
+
+[Document8]
+DocumentPath=IoT-Speaker-v2.1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=
 
 [Configuration1]
@@ -186,9 +203,9 @@ AutoOpenOutJob=-1
 ProjectMode=-1
 ZoomPrecision=50
 AddNetsInformation=-1
-AddNetPins=-1
-AddNetNetLabels=-1
-AddNetPorts=-1
+AddNetPins=0
+AddNetNetLabels=0
+AddNetPorts=0
 ShowComponentParameters=-1
 GlobalBookmarks=0
 ExportBOM=0
