@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=D:\eSpark-Consultants\smartmasjid-hardware\Design Files\Smart-Speaker-v2.1\Deliverables\Assembly Drawing\.PDF
+OutputFilePath2=D:\eSpark-Consultants\smartmasjid-hardware\Design Files\Smart-Speaker-v2.1\.PDF
 ReleaseManaged2=0
-OutputBasePath2=D:\eSpark-Consultants\smartmasjid-hardware\Design Files\Smart-Speaker-v2.1\Deliverables\Assembly Drawing\
+OutputBasePath2=D:\eSpark-Consultants\smartmasjid-hardware\Design Files\Smart-Speaker-v2.1\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\eSpark-Consultants\smartmasjid-hardware\Design Files\Smart-Speaker-v2.1\Deliverables\Assembly Drawing\.PDF
+RelativeOutputPath2=D:\eSpark-Consultants\smartmasjid-hardware\Design Files\Smart-Speaker-v2.1\.PDF
 OpenOutputs2=0
 RelativeOutputPath3=
 OpenOutputs3=1

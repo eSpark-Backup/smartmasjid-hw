@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: IoT_Speaker-PCB-v2.1.PcbDoc   3/11/2025  4:47:26 PM
+NCDrill File Report For: IoT_Speaker-PCB-v2.1.PcbDoc   3/26/2025  12:51:09 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,14 +9,14 @@ ASCII SlotHoles File : IoT_Speaker-PCB-v2.1-SlotHoles.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      6mil (0.15mm)                                             Round             3         PTH        0.08inch (2.03mm)
-T2      12mil (0.3mm)                                             Round             126       PTH        19.50inch (495.41mm)
+T2      12mil (0.3mm)                                             Round             134       PTH        20.60inch (523.26mm)
 T3      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.19mm)
 T4      35mil (0.9mm)                                             Round             8         PTH        1.69inch (42.87mm)
 T5      39mil (1mm)                                               Round             8         PTH        1.88inch (47.85mm)
 T6      43mil (1.1mm)                                             Round             2         PTH        0.10inch (2.50mm)
 T7      24mil (0.62mm)                                            Round             2         NPTH       0.23inch (5.78mm)
-T8      83mil (2.1mm)                                             Round             4         NPTH       3.74inch (94.94mm)
+T8      83mil (2.1mm)                                             Round             4         NPTH       3.95inch (100.38mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              157
+Totals                                                                              165
 
 Total Processing Time (hh:mm:ss) : 00:00:00
