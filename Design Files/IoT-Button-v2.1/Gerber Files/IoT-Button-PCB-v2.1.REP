@@ -2,55 +2,6 @@
 FileName = IoT-Button-PCB-v2.1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Fabrication
-      File : IoT-Button-PCB-v2.1.GM3
-
-    Adding Layer      : Fabrication
-
-
-Used DCodes :
-    D12
-    D72
-    D116
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : IoT-Button-PCB-v2.1.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : IoT-Button-PCB-v2.1.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D117
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : IoT-Button-PCB-v2.1.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Top Paste
       File : IoT-Button-PCB-v2.1.GTP
 
@@ -85,102 +36,6 @@ Used DCodes :
     D39
     D40
     D41
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : IoT-Button-PCB-v2.1.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : IoT-Button-PCB-v2.1.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : IoT-Button-PCB-v2.1.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D12
-    D116
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : IoT-Button-PCB-v2.1.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
 *************************************************************
 
 *************************************************************
@@ -224,6 +79,20 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Paste
+      File : IoT-Button-PCB-v2.1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Bottom Pad Master
       File : IoT-Button-PCB-v2.1.GPB
 
@@ -237,12 +106,26 @@ Used DCodes :
     D112
     D113
     D114
-    D115
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : IoT-Button-PCB-v2.1.GBL
+Generating : Fabrication
+      File : IoT-Button-PCB-v2.1.GM3
+
+    Adding Layer      : Fabrication
+
+
+Used DCodes :
+    D12
+    D72
+    D116
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : IoT-Button-PCB-v2.1.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -250,11 +133,11 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D111
-    D112
-    D113
-    D114
-    D115
+    D66
+    D67
+    D68
+    D69
+    D70
 *************************************************************
 
 *************************************************************
@@ -334,6 +217,120 @@ Used DCodes :
     D113
     D114
     D115
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : IoT-Button-PCB-v2.1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D116
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : IoT-Button-PCB-v2.1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D111
+    D112
+    D113
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : IoT-Button-PCB-v2.1.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : IoT-Button-PCB-v2.1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : IoT-Button-PCB-v2.1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : IoT-Button-PCB-v2.1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D117
 *************************************************************
 
 *************************************************************
