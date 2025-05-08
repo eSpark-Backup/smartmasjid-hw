@@ -1,44 +1,76 @@
 *************************************************************
-FileName = IoT_Speaker-PCB-v2.1.GBR
+FileName = IoT_Speaker-PCBwithPad0.255-v2.1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Fabrication
-      File : IoT_Speaker-PCB-v2.1.GM3
+Generating : Bottom Layer
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GBL
 
-    Adding Layer      : Fabrication
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D10
+    D33
+    D34
+    D38
+    D109
+    D113
+    D114
     D115
-    D186
+    D117
+    D118
+    D119
+    D120
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
 *************************************************************
 
 *************************************************************
-Generating : Board Outline
-      File : IoT_Speaker-PCB-v2.1.GM2
+Generating : Top Overlay
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GTO
 
-    Adding Layer      : Board Outline
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
     D10
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : IoT_Speaker-PCB-v2.1.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D187
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
 *************************************************************
 
 *************************************************************
 Generating : Bottom Overlay
-      File : IoT_Speaker-PCB-v2.1.GBO
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GBO
 
     Adding Layer      : Bottom Overlay
 
@@ -47,67 +79,72 @@ Used DCodes :
     D10
     D11
     D15
-    D121
-    D186
+    D119
+    D184
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : IoT_Speaker-PCB-v2.1.GBP
+Generating : Top Pad Master
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GPT
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
     D33
     D34
+    D35
+    D36
+    D37
     D38
-    D169
-    D170
-    D171
-    D172
-    D173
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : IoT_Speaker-PCB-v2.1.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D73
-    D74
-    D75
-    D80
-    D105
-    D106
-    D107
-    D108
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
     D109
-    D110
-    D111
-    D112
-    D113
-    D181
-    D182
-    D183
-    D184
-    D185
+    D116
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
 *************************************************************
 
 *************************************************************
 Generating : Top Solder
-      File : IoT_Speaker-PCB-v2.1.GTS
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GTS
 
     Adding Layer      : Top Solder
 
@@ -169,12 +206,43 @@ Used DCodes :
     D110
     D111
     D112
-    D113
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D73
+    D74
+    D75
+    D80
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D179
+    D180
+    D181
+    D182
+    D183
 *************************************************************
 
 *************************************************************
 Generating : Top Paste
-      File : IoT_Speaker-PCB-v2.1.GTP
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GTP
 
     Adding Layer      : Top Paste
 
@@ -225,68 +293,32 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : IoT_Speaker-PCB-v2.1.GPT
+Generating : Board Outline
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GM2
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Board Outline
 
 
 Used DCodes :
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D110
-    D117
-    D118
-    D161
-    D162
-    D163
-    D164
-    D165
-    D166
-    D167
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Fabrication
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GM3
+
+    Adding Layer      : Fabrication
+
+
+Used DCodes :
+    D10
+    D114
+    D184
 *************************************************************
 
 *************************************************************
 Generating : Bottom Pad Master
-      File : IoT_Speaker-PCB-v2.1.GPB
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -297,91 +329,24 @@ Used DCodes :
     D33
     D34
     D38
-    D110
+    D109
+    D159
+    D160
     D161
     D162
     D163
     D164
     D165
-    D166
-    D167
-    D169
-    D170
-    D171
-    D172
-    D173
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : IoT_Speaker-PCB-v2.1.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : IoT_Speaker-PCB-v2.1.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D33
-    D34
-    D38
-    D110
-    D114
-    D115
-    D116
-    D119
-    D120
-    D121
-    D122
-    D161
-    D162
-    D163
-    D164
-    D165
-    D166
     D167
     D168
     D169
     D170
     D171
-    D172
-    D173
-    D174
-    D175
-    D176
-    D177
-    D178
-    D179
-    D180
 *************************************************************
 
 *************************************************************
 Generating : Top Layer
-      File : IoT_Speaker-PCB-v2.1.GTL
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GTL
 
     Adding Layer      : Top Layer
 
@@ -428,7 +393,8 @@ Used DCodes :
     D58
     D59
     D60
-    D110
+    D109
+    D113
     D114
     D115
     D116
@@ -482,13 +448,44 @@ Used DCodes :
     D164
     D165
     D166
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+    D38
     D167
     D168
+    D169
+    D170
+    D171
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D185
 *************************************************************
 
 *************************************************************
 Generating : Drill Drawing
-      File : IoT_Speaker-PCB-v2.1.GD1
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GD1
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -497,15 +494,15 @@ Generating : Drill Drawing
 
 Used DCodes :
     D10
-    D115
-    D188
-    D189
-    D190
+    D11
+    D114
+    D186
+    D187
 *************************************************************
 
 *************************************************************
 Generating : Drill Guide
-      File : IoT_Speaker-PCB-v2.1.GG1
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GG1
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -513,15 +510,15 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D188
+    D11
 *************************************************************
 
 *************************************************************
 Generating : Profile
-      File : IoT_Speaker-PCB-v2.1.GM
+      File : IoT_Speaker-PCBwithPad0.255-v2.1.GM
 
 
 Used DCodes :
-    D191
+    D188
 *************************************************************
 

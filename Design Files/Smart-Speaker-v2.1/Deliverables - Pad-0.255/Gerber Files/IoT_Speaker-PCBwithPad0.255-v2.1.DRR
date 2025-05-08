@@ -1,10 +1,10 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: IoT_Speaker-PCB-v2.1.PcbDoc   5/8/2025  12:45:32 PM
+NCDrill File Report For: IoT_Speaker-PCBwithPad0.255-v2.1.PcbDoc   5/8/2025  1:05:49 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : IoT_Speaker-PCB-v2.1-RoundHoles.TXT
-ASCII SlotHoles File : IoT_Speaker-PCB-v2.1-SlotHoles.TXT
+ASCII RoundHoles File : IoT_Speaker-PCBwithPad0.255-v2.1-RoundHoles.TXT
+ASCII SlotHoles File : IoT_Speaker-PCBwithPad0.255-v2.1-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
