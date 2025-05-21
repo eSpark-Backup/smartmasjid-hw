@@ -4,9 +4,9 @@ D:\eSpark-Consultants\smartmasjid-hardware\Design Files\Smart-Speaker-v2.0\Proje
 ========================================================================================================================
 File Design Information:
 
-Date:       12/05/25
-Time:       13:21
-Revision:   439a30f775c6c57aa52edfcee0562d457ac56936
+Date:       21/05/25
+Time:       17:54
+Revision:   41bc06a2f3e5c892f2b285587331b14394374fb9
 Variant:    No variations
 Units used: mm
 
@@ -121,6 +121,7 @@ Units used: mm
 "R46","33.9183mm","5.5626mm","BottomLayer","0","33.9183mm","5.5626mm","32.6483mm","5.5626mm"
 "R47","39.5732mm","-12.1412mm","TopLayer","270","39.5732mm","-12.1412mm","39.5732mm","-11.1252mm"
 "R48","39.5632mm","-16.1749mm","TopLayer","90","39.5632mm","-16.1749mm","39.5632mm","-17.1909mm"
+"R49","13.9644mm","3.3854mm","TopLayer","308","13.9644mm","3.3854mm","13.3389mm","4.1861mm"
 "SW1","8.6795mm","4.9460mm","TopLayer","308","9.0932mm","4.6228mm","11.4339mm","5.1191mm"
 "SW2","14.7390mm","-47.7530mm","TopLayer","335","14.7390mm","-47.7530mm","11.1596mm","-47.7390mm"
 "SW3","57.6140mm","-27.7890mm","TopLayer","73","57.6140mm","-27.7890mm","55.2293mm","-30.4584mm"
