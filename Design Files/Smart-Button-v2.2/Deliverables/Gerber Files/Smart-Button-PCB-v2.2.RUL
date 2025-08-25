@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: S:\smartmasjid-hardware\Design Files\Smart-Button-v2.2\Smart-Button-PCB-v2.2.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

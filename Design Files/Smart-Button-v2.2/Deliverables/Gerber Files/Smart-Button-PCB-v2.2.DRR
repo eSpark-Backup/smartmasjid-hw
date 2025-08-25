@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Smart-Button-PCB-v2.2.PcbDoc   8/25/2025  4:47:41 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Smart-Button-PCB-v2.2-RoundHoles.TXT
+ASCII SlotHoles File : Smart-Button-PCB-v2.2-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      32mil (0.8mm)                                             Slot              3         PTH        0.76inch (19.19mm)
+T2      43mil (1.1mm)                                             Round             2         PTH        0.18inch (4.50mm)
+T3      51mil (1.3mm)                                             Round             2         PTH        0.28inch (7.01mm)
+T4      79mil (2mm)                                               Round             4         PTH        9.22inch (234.18mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              11
+
+Total Processing Time (hh:mm:ss) : 00:00:03
